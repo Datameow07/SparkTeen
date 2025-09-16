@@ -25,6 +25,8 @@ import CommunityPage from "./components/CommunityPage";
 import WellnessPage from "./components/WellnessPage";
 import ARCareerExplorer from "./components/ARCareerExplorer";
 import SentimentAnalysis from "./components/SentimentAnalysis";
+import MeditationPage from "./components/MeditationPage";
+import BreathingPage from "./components/BreathingPage";
 
 // #############################################################################
 // ##### 0. MAIN APP COMPONENT #################################################
@@ -93,6 +95,8 @@ function App() {
                                     <Route path="/wellness" element={<WellnessPage user={user} notifications={notifications} theme={theme} setTheme={setTheme} onLogout={handleLogout} />} />
                                     <Route path="/wellness/ar-career-explorer" element={<ARCareerExplorer user={user} theme={theme} setTheme={setTheme} onLogout={handleLogout} />} />
                                     <Route path="/wellness/sentiment-analysis" element={<SentimentAnalysis user={user} theme={theme} setTheme={setTheme} onLogout={handleLogout} />} />
+                                    <Route path="/wellness/meditation" element={<MeditationPage user={user} theme={theme} setTheme={setTheme} onLogout={onLogout} />} />
+                                    <Route path="/wellness/breathing" element={<BreathingPage user={user} theme={theme} setTheme={setTheme} onLogout={onLogout} />} />
                                     <Route path="*" element={<Navigate to="/dashboard" replace />} />
                                 </Routes>
                             </AnimatePresence>
