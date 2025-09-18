@@ -1,6 +1,6 @@
 # SparkTeen - Career Exploration Platform
 
-SparkTeen is an interactive career exploration platform designed specifically for teenagers to discover their passions, explore career paths, and develop the skills needed for future success.
+SparkTeen is an interactive career exploration platform designed specifically for teenagers to discover their passions, explore career paths, and develop the skills needed for future success..
 
 ## 🌟 Features
 
