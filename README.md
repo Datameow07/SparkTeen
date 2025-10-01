@@ -1,17 +1,4 @@
-Here's the complete README.md file for SparkTeen:
-
-```markdown
 # SparkTeen 🔥
-
-A dynamic web application designed for teenagers to connect, share ideas, and spark creativity through collaborative projects and discussions.
-
-## 🚀 Quick Start
-
-### Prerequisites
-
-- **Node.js** (version 16 or higher) - [Download here](https://nodejs.org/)
-- **npm** (comes with Node.js) or **yarn**
-- **Git** - [Download here](https://git-scm.com/)
 
 ### Installation & Setup
 
