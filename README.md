@@ -190,5 +190,3 @@ npm start
 npm run build
 # Upload the build folder to your server
 ```
-
-**Built with ❤️ for the next generation of creators!** 🎉
