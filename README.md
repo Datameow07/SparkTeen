@@ -1,4 +1,4 @@
-# SparkTeen 🔥
+# SparkTeen 
 
 ### Installation & Setup
 
